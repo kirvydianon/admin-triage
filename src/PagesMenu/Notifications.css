@@ -1,0 +1,63 @@
+.container{
+    margin-top: 2rem;
+
+}
+
+.container .card{
+ 
+    border-radius: 4px;
+    background-color:#ffff;
+    padding: 1rem 0;
+    box-shadow: 2rem 2rem #57606f solid;
+  
+    
+}
+.card-body{
+    background-color: #dfe4ea;  
+    font-size: 17px;
+    padding: 2px 2px;
+    font-family: 'Poppins', sans-serif; 
+  
+}
+.card-body h4{
+    background-color: #dc3545;
+    color: #ffff;
+    border-radius: 4px;
+    height: 130px;
+    text-align: center;
+    align-items: center;
+    display: relative;
+    padding-top: 50px;
+    margin-top: 4px;
+    font-size: 1.5rem;
+}
+.card-body h3{
+    background-color: #198754;
+    color: #ffff;
+    border-radius: 4px;
+    height: 130px;
+    text-align: center;
+    align-items: center;
+    display: relative;
+    padding-top: 50px;
+    margin-top: 4px;
+    font-size: 1.5rem;
+}
+.card-body h5{
+    background-color: #0d64ed;
+    color: #ffff;
+    border-radius: 4px;
+    height: 130px;
+    text-align: center;
+    align-items: center;
+    display: relative;
+    padding-top: 50px;
+    margin-top: 4px;
+    font-size: 1.5rem;
+}
+
+
+.btn-das{
+    width: 20rem;
+    height: 8rem;
+}
